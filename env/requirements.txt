@@ -1,0 +1,9 @@
+xarray
+netCDF4
+zarr
+xesmf
+cdsapi
+pandas
+numpy
+tqdm
+pytest
